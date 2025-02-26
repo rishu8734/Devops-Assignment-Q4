@@ -24,3 +24,14 @@ find "$target_dir" -mindepth 1 -maxdepth 1 | while read -r item; do
 
     echo -e "$name\\t\\t$type\\t\\t$size"
 done
+# change1
+#change2
+# change3
+# change4
+# change5
+
+# change6
+# change7
+# change8
+# change9
+# change10
